@@ -1,1 +1,1 @@
-# encryptor-source-code
+Source code of encryptor.
